@@ -1,0 +1,26 @@
+
+CVE_ M CVE_ DESCRIPCION         
+---- - ---- --------------------
+EUR  N 92   UNI. MONEDA EUROPEA 
+MN   N 01   MONEDA NACIONAL     
+USD  N 02   DOLAR AMERICANO     
+ATS  N 12   SHILLING AUSTRIACO  
+AUD  N 15   DOLAR AUSTRALIANO   
+BEF  N 11   FRANCO BELGA        
+CAD  N 06   DOLAR CANADIENSE    
+CHF  N 10   FRANCO SUIZO        
+DEM  N 05   MARCO ALEMAN        
+DKK  N 16   CORONO DANESA       
+ESP  N 04   PESETA ESPANOLA     
+
+CVE_ M CVE_ DESCRIPCION         
+---- - ---- --------------------
+FRF  N 07   FRANCO FRANCES      
+GBP  N 03   LIBRA ESTERLINA     
+ITL  N 09   LIRA ITALIANA       
+JPY  N 14   YEN JAPONES         
+NLG  N 13   FLORIN HOLANDES     
+SEK  N 08   CORONA SUECA        
+NOK  N 17   CORONA NORUEGA      
+
+18 filas seleccionadas. 

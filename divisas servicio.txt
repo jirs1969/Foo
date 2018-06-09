@@ -1,0 +1,1632 @@
+{
+   "messageError": "Query ejecutado exitosamente",
+   "codeError": "DAE000",
+   "listaDivisas":    [
+            {
+         "idDiv": 160,
+         "descrNombre": "Rand sudafricano",
+         "descrAbrev": "ZAR"
+      },
+            {
+         "idDiv": 161,
+         "descrNombre": "Kwacha zambiano",
+         "descrAbrev": "ZMW"
+      },
+            {
+         "idDiv": 162,
+         "descrNombre": "DÃ³lar zimbabuense",
+         "descrAbrev": "ZWL"
+      },
+            {
+         "idDiv": 163,
+         "descrNombre": "Dirham de los Emiratos Ã�rabes Unidos",
+         "descrAbrev": "ZAED"
+      },
+            {
+         "idDiv": 164,
+         "descrNombre": "Afgani afgano ALL Lek albanÃ©s",
+         "descrAbrev": "ZAFN"
+      },
+            {
+         "idDiv": 165,
+         "descrNombre": "Dram armenio",
+         "descrAbrev": "ZAMD"
+      },
+            {
+         "idDiv": 166,
+         "descrNombre": "FlorÃ­n antillano neerlandÃ©s",
+         "descrAbrev": "ZANG"
+      },
+            {
+         "idDiv": 167,
+         "descrNombre": "Kwanza angoleÃ±o",
+         "descrAbrev": "ZAOA"
+      },
+            {
+         "idDiv": 168,
+         "descrNombre": "Peso argentino",
+         "descrAbrev": "ZARS"
+      },
+            {
+         "idDiv": 169,
+         "descrNombre": "DÃ³lar australiano",
+         "descrAbrev": "ZAUD"
+      },
+            {
+         "idDiv": 170,
+         "descrNombre": "FlorÃ­n arubeÃ±o",
+         "descrAbrev": "ZAWG"
+      },
+            {
+         "idDiv": 171,
+         "descrNombre": "Manat azerbaiyano",
+         "descrAbrev": "ZAZN"
+      },
+            {
+         "idDiv": 172,
+         "descrNombre": "Marco convertible de Bosnia-Herzegovina",
+         "descrAbrev": "ZBAM"
+      },
+            {
+         "idDiv": 173,
+         "descrNombre": "DÃ³lar de Barbados",
+         "descrAbrev": "ZBBD"
+      },
+            {
+         "idDiv": 174,
+         "descrNombre": "Taka de BangladÃ©s",
+         "descrAbrev": "ZBDT"
+      },
+            {
+         "idDiv": 175,
+         "descrNombre": "Lev bÃºlgaro",
+         "descrAbrev": "ZBGN"
+      },
+            {
+         "idDiv": 176,
+         "descrNombre": "Dinar bahreinÃ­",
+         "descrAbrev": "ZBHD"
+      },
+            {
+         "idDiv": 177,
+         "descrNombre": "Franco burundÃ©s",
+         "descrAbrev": "ZBIF"
+      },
+            {
+         "idDiv": 178,
+         "descrNombre": "DÃ³lar de Bermuda",
+         "descrAbrev": "ZBMD"
+      },
+            {
+         "idDiv": 179,
+         "descrNombre": "DÃ³lar de BrunÃ©i",
+         "descrAbrev": "ZBND"
+      },
+            {
+         "idDiv": 180,
+         "descrNombre": "Boliviano",
+         "descrAbrev": "ZBOB"
+      },
+            {
+         "idDiv": 181,
+         "descrNombre": "Mvdol boliviano",
+         "descrAbrev": "ZBOV"
+      },
+            {
+         "idDiv": 182,
+         "descrNombre": "Real brasileÃ±o",
+         "descrAbrev": "ZBRL"
+      },
+            {
+         "idDiv": 183,
+         "descrNombre": "DÃ³lar bahameÃ±o",
+         "descrAbrev": "ZBSD"
+      },
+            {
+         "idDiv": 184,
+         "descrNombre": "Ngultrum de ButÃ¡n",
+         "descrAbrev": "ZBTN"
+      },
+            {
+         "idDiv": 185,
+         "descrNombre": "Pula de Botsuana",
+         "descrAbrev": "ZBWP"
+      },
+            {
+         "idDiv": 186,
+         "descrNombre": "Rublo bielorruso",
+         "descrAbrev": "ZBYR"
+      },
+            {
+         "idDiv": 187,
+         "descrNombre": "DÃ³lar de Belice",
+         "descrAbrev": "ZBZD"
+      },
+            {
+         "idDiv": 188,
+         "descrNombre": "DÃ³lar canadiense",
+         "descrAbrev": "ZCAD"
+      },
+            {
+         "idDiv": 189,
+         "descrNombre": "Franco congoleÃ±o",
+         "descrAbrev": "ZCDF"
+      },
+            {
+         "idDiv": 190,
+         "descrNombre": "Franco suizo",
+         "descrAbrev": "ZCHF"
+      },
+            {
+         "idDiv": 191,
+         "descrNombre": "Unidades de fomento chilenas",
+         "descrAbrev": "ZCLF"
+      },
+            {
+         "idDiv": 192,
+         "descrNombre": "Peso chileno CNY Yuan chino",
+         "descrAbrev": "ZCLP"
+      },
+            {
+         "idDiv": 193,
+         "descrNombre": "Peso colombiano",
+         "descrAbrev": "ZCOP"
+      },
+            {
+         "idDiv": 194,
+         "descrNombre": "Unidad de valor real colombiana",
+         "descrAbrev": "ZCOU"
+      },
+            {
+         "idDiv": 195,
+         "descrNombre": "ColÃ³n costarricense",
+         "descrAbrev": "ZCRC"
+      },
+            {
+         "idDiv": 196,
+         "descrNombre": "Dinar serbio",
+         "descrAbrev": "ZCSD"
+      },
+            {
+         "idDiv": 197,
+         "descrNombre": "Peso cubano CUC Peso cubano convertible",
+         "descrAbrev": "ZCUP"
+      },
+            {
+         "idDiv": 198,
+         "descrNombre": "Escudo caboverdiano CZK Koruna checa",
+         "descrAbrev": "ZCVE"
+      },
+            {
+         "idDiv": 199,
+         "descrNombre": "Franco yibutiano DKK Corona danesa",
+         "descrAbrev": "ZDJF"
+      },
+            {
+         "idDiv": 200,
+         "descrNombre": "Peso dominicano DZD Dinar argelino",
+         "descrAbrev": "ZDOP"
+      },
+            {
+         "idDiv": 201,
+         "descrNombre": "Libra egipcia ERN Nakfa eritreo",
+         "descrAbrev": "ZEGP"
+      },
+            {
+         "idDiv": 202,
+         "descrNombre": "Birr etÃ­ope EUR Euro",
+         "descrAbrev": "ZETB"
+      },
+            {
+         "idDiv": 203,
+         "descrNombre": "DÃ³lar fiyiano",
+         "descrAbrev": "ZFJD"
+      },
+            {
+         "idDiv": 204,
+         "descrNombre": "Libra malvinense",
+         "descrAbrev": "ZFKP"
+      },
+            {
+         "idDiv": 205,
+         "descrNombre": "Libra esterlina",
+         "descrAbrev": "ZGBP"
+      },
+            {
+         "idDiv": 1,
+         "descrNombre": "Dirham de los Emiratos Ã�rabes Unidos",
+         "descrAbrev": "AED"
+      },
+            {
+         "idDiv": 2,
+         "descrNombre": "Afgani afgano ALL Lek albanÃ©s",
+         "descrAbrev": "AFN"
+      },
+            {
+         "idDiv": 3,
+         "descrNombre": "Dram armenio",
+         "descrAbrev": "AMD"
+      },
+            {
+         "idDiv": 4,
+         "descrNombre": "FlorÃ­n antillano neerlandÃ©s",
+         "descrAbrev": "ANG"
+      },
+            {
+         "idDiv": 5,
+         "descrNombre": "Kwanza angoleÃ±o",
+         "descrAbrev": "AOA"
+      },
+            {
+         "idDiv": 6,
+         "descrNombre": "Peso argentino",
+         "descrAbrev": "ARS"
+      },
+            {
+         "idDiv": 7,
+         "descrNombre": "DÃ³lar australiano",
+         "descrAbrev": "AUD"
+      },
+            {
+         "idDiv": 8,
+         "descrNombre": "FlorÃ­n arubeÃ±o",
+         "descrAbrev": "AWG"
+      },
+            {
+         "idDiv": 9,
+         "descrNombre": "Manat azerbaiyano",
+         "descrAbrev": "AZN"
+      },
+            {
+         "idDiv": 10,
+         "descrNombre": "Marco convertible de Bosnia-Herzegovina",
+         "descrAbrev": "BAM"
+      },
+            {
+         "idDiv": 11,
+         "descrNombre": "DÃ³lar de Barbados",
+         "descrAbrev": "BBD"
+      },
+            {
+         "idDiv": 12,
+         "descrNombre": "Taka de BangladÃ©s",
+         "descrAbrev": "BDT"
+      },
+            {
+         "idDiv": 13,
+         "descrNombre": "Lev bÃºlgaro",
+         "descrAbrev": "BGN"
+      },
+            {
+         "idDiv": 14,
+         "descrNombre": "Dinar bahreinÃ­",
+         "descrAbrev": "BHD"
+      },
+            {
+         "idDiv": 15,
+         "descrNombre": "Franco burundÃ©s",
+         "descrAbrev": "BIF"
+      },
+            {
+         "idDiv": 16,
+         "descrNombre": "DÃ³lar de Bermuda",
+         "descrAbrev": "BMD"
+      },
+            {
+         "idDiv": 17,
+         "descrNombre": "DÃ³lar de BrunÃ©i",
+         "descrAbrev": "BND"
+      },
+            {
+         "idDiv": 18,
+         "descrNombre": "Boliviano",
+         "descrAbrev": "BOB"
+      },
+            {
+         "idDiv": 19,
+         "descrNombre": "Mvdol boliviano",
+         "descrAbrev": "BOV"
+      },
+            {
+         "idDiv": 20,
+         "descrNombre": "Real brasileÃ±o",
+         "descrAbrev": "BRL"
+      },
+            {
+         "idDiv": 21,
+         "descrNombre": "DÃ³lar bahameÃ±o",
+         "descrAbrev": "BSD"
+      },
+            {
+         "idDiv": 22,
+         "descrNombre": "Ngultrum de ButÃ¡n",
+         "descrAbrev": "BTN"
+      },
+            {
+         "idDiv": 23,
+         "descrNombre": "Pula de Botsuana",
+         "descrAbrev": "BWP"
+      },
+            {
+         "idDiv": 24,
+         "descrNombre": "Rublo bielorruso",
+         "descrAbrev": "BYR"
+      },
+            {
+         "idDiv": 25,
+         "descrNombre": "DÃ³lar de Belice",
+         "descrAbrev": "BZD"
+      },
+            {
+         "idDiv": 26,
+         "descrNombre": "DÃ³lar canadiense",
+         "descrAbrev": "CAD"
+      },
+            {
+         "idDiv": 27,
+         "descrNombre": "Franco congoleÃ±o",
+         "descrAbrev": "CDF"
+      },
+            {
+         "idDiv": 28,
+         "descrNombre": "Franco suizo",
+         "descrAbrev": "CHF"
+      },
+            {
+         "idDiv": 29,
+         "descrNombre": "Unidades de fomento chilenas",
+         "descrAbrev": "CLF"
+      },
+            {
+         "idDiv": 30,
+         "descrNombre": "Peso chileno CNY Yuan chino",
+         "descrAbrev": "CLP"
+      },
+            {
+         "idDiv": 31,
+         "descrNombre": "Peso colombiano",
+         "descrAbrev": "COP"
+      },
+            {
+         "idDiv": 32,
+         "descrNombre": "Unidad de valor real colombiana",
+         "descrAbrev": "COU"
+      },
+            {
+         "idDiv": 33,
+         "descrNombre": "ColÃ³n costarricense",
+         "descrAbrev": "CRC"
+      },
+            {
+         "idDiv": 34,
+         "descrNombre": "Dinar serbio",
+         "descrAbrev": "CSD"
+      },
+            {
+         "idDiv": 35,
+         "descrNombre": "Peso cubano CUC Peso cubano convertible",
+         "descrAbrev": "CUP"
+      },
+            {
+         "idDiv": 36,
+         "descrNombre": "Escudo caboverdiano CZK Koruna checa",
+         "descrAbrev": "CVE"
+      },
+            {
+         "idDiv": 37,
+         "descrNombre": "Franco yibutiano DKK Corona danesa",
+         "descrAbrev": "DJF"
+      },
+            {
+         "idDiv": 38,
+         "descrNombre": "Peso dominicano DZD Dinar argelino",
+         "descrAbrev": "DOP"
+      },
+            {
+         "idDiv": 39,
+         "descrNombre": "Libra egipcia ERN Nakfa eritreo",
+         "descrAbrev": "EGP"
+      },
+            {
+         "idDiv": 40,
+         "descrNombre": "Birr etÃ­ope EUR Euro",
+         "descrAbrev": "ETB"
+      },
+            {
+         "idDiv": 41,
+         "descrNombre": "DÃ³lar fiyiano",
+         "descrAbrev": "FJD"
+      },
+            {
+         "idDiv": 42,
+         "descrNombre": "Libra malvinense",
+         "descrAbrev": "FKP"
+      },
+            {
+         "idDiv": 43,
+         "descrNombre": "Libra esterlina",
+         "descrAbrev": "GBP"
+      },
+            {
+         "idDiv": 44,
+         "descrNombre": "Lari georgiano",
+         "descrAbrev": "GEL"
+      },
+            {
+         "idDiv": 45,
+         "descrNombre": "Cedi ghanÃ©s",
+         "descrAbrev": "GHS"
+      },
+            {
+         "idDiv": 46,
+         "descrNombre": "Libra de Gibraltar",
+         "descrAbrev": "GIP"
+      },
+            {
+         "idDiv": 47,
+         "descrNombre": "Dalasi gambiano",
+         "descrAbrev": "GMD"
+      },
+            {
+         "idDiv": 48,
+         "descrNombre": "Franco guineano",
+         "descrAbrev": "GNF"
+      },
+            {
+         "idDiv": 49,
+         "descrNombre": "Quetzal guatemalteco",
+         "descrAbrev": "GTQ"
+      },
+            {
+         "idDiv": 50,
+         "descrNombre": "DÃ³lar guyanÃ©s",
+         "descrAbrev": "GYD"
+      },
+            {
+         "idDiv": 51,
+         "descrNombre": "DÃ³lar de Hong Kong",
+         "descrAbrev": "HKD"
+      },
+            {
+         "idDiv": 52,
+         "descrNombre": "Lempira hondureÃ±o",
+         "descrAbrev": "HNL"
+      },
+            {
+         "idDiv": 53,
+         "descrNombre": "Kuna croata",
+         "descrAbrev": "HRK"
+      },
+            {
+         "idDiv": 54,
+         "descrNombre": "Gourde haitiano",
+         "descrAbrev": "HTG"
+      },
+            {
+         "idDiv": 55,
+         "descrNombre": "Forint hÃºngaro",
+         "descrAbrev": "HUF"
+      },
+            {
+         "idDiv": 56,
+         "descrNombre": "Rupiah indonesia",
+         "descrAbrev": "IDR"
+      },
+            {
+         "idDiv": 57,
+         "descrNombre": "Nuevo shÃ©quel israelÃ­",
+         "descrAbrev": "ILS"
+      },
+            {
+         "idDiv": 58,
+         "descrNombre": "Rupia india",
+         "descrAbrev": "INR"
+      },
+            {
+         "idDiv": 59,
+         "descrNombre": "Dinar iraquÃ­",
+         "descrAbrev": "IQD"
+      },
+            {
+         "idDiv": 60,
+         "descrNombre": "Rial iranÃ­",
+         "descrAbrev": "IRR"
+      },
+            {
+         "idDiv": 61,
+         "descrNombre": "KrÃ³na islandesa",
+         "descrAbrev": "ISK"
+      },
+            {
+         "idDiv": 62,
+         "descrNombre": "DÃ³lar jamaicano",
+         "descrAbrev": "JMD"
+      },
+            {
+         "idDiv": 63,
+         "descrNombre": "Dinar jordano",
+         "descrAbrev": "JOD"
+      },
+            {
+         "idDiv": 64,
+         "descrNombre": "Yen japonÃ©s",
+         "descrAbrev": "JPY"
+      },
+            {
+         "idDiv": 65,
+         "descrNombre": "ChelÃ­n keniata",
+         "descrAbrev": "KES"
+      },
+            {
+         "idDiv": 66,
+         "descrNombre": "Som kirguÃ­s (de KirguistÃ¡n)",
+         "descrAbrev": "KGS"
+      },
+            {
+         "idDiv": 67,
+         "descrNombre": "Riel camboyano",
+         "descrAbrev": "KHR"
+      },
+            {
+         "idDiv": 68,
+         "descrNombre": "Franco comoriano (de Comoras)",
+         "descrAbrev": "KMF"
+      },
+            {
+         "idDiv": 69,
+         "descrNombre": "Won norcoreano",
+         "descrAbrev": "KPW"
+      },
+            {
+         "idDiv": 70,
+         "descrNombre": "Won surcoreano",
+         "descrAbrev": "KRW"
+      },
+            {
+         "idDiv": 71,
+         "descrNombre": "Dinar kuwaitÃ­",
+         "descrAbrev": "KWD"
+      },
+            {
+         "idDiv": 72,
+         "descrNombre": "DÃ³lar caimano (de Islas CaimÃ¡n)",
+         "descrAbrev": "KYD"
+      },
+            {
+         "idDiv": 73,
+         "descrNombre": "Tenge kazajo",
+         "descrAbrev": "KZT"
+      },
+            {
+         "idDiv": 74,
+         "descrNombre": "Kip lao",
+         "descrAbrev": "LAK"
+      },
+            {
+         "idDiv": 75,
+         "descrNombre": "Libra libanesa",
+         "descrAbrev": "LBP"
+      },
+            {
+         "idDiv": 76,
+         "descrNombre": "Rupia de Sri Lanka",
+         "descrAbrev": "LKR"
+      },
+            {
+         "idDiv": 77,
+         "descrNombre": "DÃ³lar liberiano",
+         "descrAbrev": "LRD"
+      },
+            {
+         "idDiv": 78,
+         "descrNombre": "Loti lesotense",
+         "descrAbrev": "LSL"
+      },
+            {
+         "idDiv": 79,
+         "descrNombre": "Litas lituano",
+         "descrAbrev": "LTL"
+      },
+            {
+         "idDiv": 80,
+         "descrNombre": "Lat letÃ³n",
+         "descrAbrev": "LVL"
+      },
+            {
+         "idDiv": 81,
+         "descrNombre": "Dinar libio",
+         "descrAbrev": "LYD"
+      },
+            {
+         "idDiv": 82,
+         "descrNombre": "Dirham marroquÃ­",
+         "descrAbrev": "MAD"
+      },
+            {
+         "idDiv": 83,
+         "descrNombre": "Leu moldavo",
+         "descrAbrev": "MDL"
+      },
+            {
+         "idDiv": 84,
+         "descrNombre": "Ariary malgache",
+         "descrAbrev": "MGA"
+      },
+            {
+         "idDiv": 85,
+         "descrNombre": "Denar macedonio",
+         "descrAbrev": "MKD"
+      },
+            {
+         "idDiv": 86,
+         "descrNombre": "Kyat birmano",
+         "descrAbrev": "MMK"
+      },
+            {
+         "idDiv": 87,
+         "descrNombre": "Tughrik mongol",
+         "descrAbrev": "MNT"
+      },
+            {
+         "idDiv": 88,
+         "descrNombre": "Pataca de Macao",
+         "descrAbrev": "MOP"
+      },
+            {
+         "idDiv": 89,
+         "descrNombre": "Ouguiya mauritana",
+         "descrAbrev": "MRO"
+      },
+            {
+         "idDiv": 90,
+         "descrNombre": "Rupia mauricia",
+         "descrAbrev": "MUR"
+      },
+            {
+         "idDiv": 91,
+         "descrNombre": "Rufiyaa maldiva",
+         "descrAbrev": "MVR"
+      },
+            {
+         "idDiv": 92,
+         "descrNombre": "Kwacha malauÃ­",
+         "descrAbrev": "MWK"
+      },
+            {
+         "idDiv": 93,
+         "descrNombre": "Peso mexicano",
+         "descrAbrev": "MXN"
+      },
+            {
+         "idDiv": 94,
+         "descrNombre": "Unidad de InversiÃ³n UDI",
+         "descrAbrev": "MXV"
+      },
+            {
+         "idDiv": 95,
+         "descrNombre": "Ringgit malayo",
+         "descrAbrev": "MYR"
+      },
+            {
+         "idDiv": 96,
+         "descrNombre": "Metical mozambiqueÃ±o",
+         "descrAbrev": "MZN"
+      },
+            {
+         "idDiv": 97,
+         "descrNombre": "DÃ³lar namibio",
+         "descrAbrev": "NAD"
+      },
+            {
+         "idDiv": 98,
+         "descrNombre": "Naira nigeriana",
+         "descrAbrev": "NGN"
+      },
+            {
+         "idDiv": 99,
+         "descrNombre": "CÃ³rdoba nicaragÃ¼ense",
+         "descrAbrev": "NIO"
+      },
+            {
+         "idDiv": 100,
+         "descrNombre": "Corona noruega",
+         "descrAbrev": "NOK"
+      },
+            {
+         "idDiv": 101,
+         "descrNombre": "Rupia nepalesa",
+         "descrAbrev": "NPR"
+      },
+            {
+         "idDiv": 102,
+         "descrNombre": "DÃ³lar neozelandÃ©s",
+         "descrAbrev": "NZD"
+      },
+            {
+         "idDiv": 103,
+         "descrNombre": "Rial omanÃ­",
+         "descrAbrev": "OMR"
+      },
+            {
+         "idDiv": 104,
+         "descrNombre": "Balboa panameÃ±a",
+         "descrAbrev": "PAB"
+      },
+            {
+         "idDiv": 105,
+         "descrNombre": "Nuevo sol peruano",
+         "descrAbrev": "PEN"
+      },
+            {
+         "idDiv": 106,
+         "descrNombre": "Kina de PapÃºa Nueva Guinea",
+         "descrAbrev": "PGK"
+      },
+            {
+         "idDiv": 107,
+         "descrNombre": "Peso filipino",
+         "descrAbrev": "PHP"
+      },
+            {
+         "idDiv": 108,
+         "descrNombre": "Rupia pakistanÃ­",
+         "descrAbrev": "PKR"
+      },
+            {
+         "idDiv": 109,
+         "descrNombre": "zloty polaco",
+         "descrAbrev": "PLN"
+      },
+            {
+         "idDiv": 110,
+         "descrNombre": "GuaranÃ­ paraguayo",
+         "descrAbrev": "PYG"
+      },
+            {
+         "idDiv": 111,
+         "descrNombre": "Rial qatarÃ­",
+         "descrAbrev": "QAR"
+      },
+            {
+         "idDiv": 112,
+         "descrNombre": "Leu rumano",
+         "descrAbrev": "RON"
+      },
+            {
+         "idDiv": 113,
+         "descrNombre": "Rublo ruso",
+         "descrAbrev": "RUB"
+      },
+            {
+         "idDiv": 114,
+         "descrNombre": "Franco ruandÃ©s",
+         "descrAbrev": "RWF"
+      },
+            {
+         "idDiv": 115,
+         "descrNombre": "Riyal saudÃ­",
+         "descrAbrev": "SAR"
+      },
+            {
+         "idDiv": 116,
+         "descrNombre": "DÃ³lar de las Islas SalomÃ³n",
+         "descrAbrev": "SBD"
+      },
+            {
+         "idDiv": 117,
+         "descrNombre": "Rupia de Seychelles",
+         "descrAbrev": "SCR"
+      },
+            {
+         "idDiv": 118,
+         "descrNombre": "Dinar sudanÃ©s",
+         "descrAbrev": "SDG"
+      },
+            {
+         "idDiv": 119,
+         "descrNombre": "Corona sueca",
+         "descrAbrev": "SEK"
+      },
+            {
+         "idDiv": 120,
+         "descrNombre": "DÃ³lar de Singapur",
+         "descrAbrev": "SGD"
+      },
+            {
+         "idDiv": 121,
+         "descrNombre": "Libra de Santa Helena",
+         "descrAbrev": "SHP"
+      },
+            {
+         "idDiv": 122,
+         "descrNombre": "Leone de Sierra Leona",
+         "descrAbrev": "SLL"
+      },
+            {
+         "idDiv": 123,
+         "descrNombre": "ChelÃ­n somalÃ­",
+         "descrAbrev": "SOS"
+      },
+            {
+         "idDiv": 124,
+         "descrNombre": "DÃ³lar surinamÃ©s",
+         "descrAbrev": "SRD"
+      },
+            {
+         "idDiv": 125,
+         "descrNombre": "Dobra de Santo TomÃ© y PrÃ­ncipe",
+         "descrAbrev": "STD"
+      },
+            {
+         "idDiv": 126,
+         "descrNombre": "Libra siria SZL Lilangeni suazi",
+         "descrAbrev": "SYP"
+      },
+            {
+         "idDiv": 127,
+         "descrNombre": "Baht tailandÃ©s",
+         "descrAbrev": "THB"
+      },
+            {
+         "idDiv": 128,
+         "descrNombre": "Somoni tayik",
+         "descrAbrev": "TJS"
+      },
+            {
+         "idDiv": 129,
+         "descrNombre": "Manat turcomano",
+         "descrAbrev": "TMT"
+      },
+            {
+         "idDiv": 130,
+         "descrNombre": "Dinar tunecino",
+         "descrAbrev": "TND"
+      },
+            {
+         "idDiv": 131,
+         "descrNombre": "Paanga tongano",
+         "descrAbrev": "TOP"
+      },
+            {
+         "idDiv": 132,
+         "descrNombre": "Lira turca TTD DÃ³lar de Trinidad y Tobago",
+         "descrAbrev": "TRY"
+      },
+            {
+         "idDiv": 133,
+         "descrNombre": "DÃ³lar taiwanÃ©s TZS ChelÃ­n tanzano",
+         "descrAbrev": "TWD"
+      },
+            {
+         "idDiv": 134,
+         "descrNombre": "Grivna ucraniana",
+         "descrAbrev": "UAH"
+      },
+            {
+         "idDiv": 135,
+         "descrNombre": "ChelÃ­n ugandÃ©s",
+         "descrAbrev": "UGX"
+      },
+            {
+         "idDiv": 136,
+         "descrNombre": "DÃ³lar estadounidense",
+         "descrAbrev": "USD"
+      },
+            {
+         "idDiv": 137,
+         "descrNombre": "DÃ³lar estadounidense",
+         "descrAbrev": "USN"
+      },
+            {
+         "idDiv": 138,
+         "descrNombre": "DÃ³lar estadounidense",
+         "descrAbrev": "USS"
+      },
+            {
+         "idDiv": 139,
+         "descrNombre": "Peso uruguayo",
+         "descrAbrev": "UYU"
+      },
+            {
+         "idDiv": 140,
+         "descrNombre": "Som uzbeko",
+         "descrAbrev": "UZS"
+      },
+            {
+         "idDiv": 141,
+         "descrNombre": "BolÃ­var fuerte venezolano",
+         "descrAbrev": "VEF"
+      },
+            {
+         "idDiv": 142,
+         "descrNombre": "Dong vietnamita",
+         "descrAbrev": "VND"
+      },
+            {
+         "idDiv": 143,
+         "descrNombre": "Vatu vanuatense",
+         "descrAbrev": "VUV"
+      },
+            {
+         "idDiv": 144,
+         "descrNombre": "Tala samoana",
+         "descrAbrev": "WST"
+      },
+            {
+         "idDiv": 145,
+         "descrNombre": "Franco CFA de Ã�frica Central",
+         "descrAbrev": "XAF"
+      },
+            {
+         "idDiv": 146,
+         "descrNombre": "Onza de plata XAU Onza de oro",
+         "descrAbrev": "XAG"
+      },
+            {
+         "idDiv": 147,
+         "descrNombre": "European Composite Unit",
+         "descrAbrev": "XBA"
+      },
+            {
+         "idDiv": 148,
+         "descrNombre": "European Monetary Unit",
+         "descrAbrev": "XBB"
+      },
+            {
+         "idDiv": 149,
+         "descrNombre": "European Unit of Account",
+         "descrAbrev": "XBC"
+      },
+            {
+         "idDiv": 150,
+         "descrNombre": "European Unit of Account 17 (E.U.A.-17)",
+         "descrAbrev": "XBD"
+      },
+            {
+         "idDiv": 151,
+         "descrNombre": "DÃ³lar del Caribe Oriental",
+         "descrAbrev": "XCD"
+      },
+            {
+         "idDiv": 152,
+         "descrNombre": "Derechos Especiales de Giro",
+         "descrAbrev": "XDR"
+      },
+            {
+         "idDiv": 153,
+         "descrNombre": "Franco UIC",
+         "descrAbrev": "XFU"
+      },
+            {
+         "idDiv": 154,
+         "descrNombre": "Franco CFA de Ã�frica Occidental",
+         "descrAbrev": "XOF"
+      },
+            {
+         "idDiv": 155,
+         "descrNombre": "Onza de paladio",
+         "descrAbrev": "XPD"
+      },
+            {
+         "idDiv": 156,
+         "descrNombre": "Franco CFP",
+         "descrAbrev": "XPF"
+      },
+            {
+         "idDiv": 157,
+         "descrNombre": "Onza de platino",
+         "descrAbrev": "XPT"
+      },
+            {
+         "idDiv": 158,
+         "descrNombre": "Reservado para pruebas",
+         "descrAbrev": "XTS"
+      },
+            {
+         "idDiv": 159,
+         "descrNombre": "Sin divisa YER Rial yemenÃ­",
+         "descrAbrev": "XXX"
+      },
+            {
+         "idDiv": 206,
+         "descrNombre": "Lari georgiano",
+         "descrAbrev": "ZGEL"
+      },
+            {
+         "idDiv": 207,
+         "descrNombre": "Cedi ghanÃ©s",
+         "descrAbrev": "ZGHS"
+      },
+            {
+         "idDiv": 208,
+         "descrNombre": "Libra de Gibraltar",
+         "descrAbrev": "ZGIP"
+      },
+            {
+         "idDiv": 209,
+         "descrNombre": "Dalasi gambiano",
+         "descrAbrev": "ZGMD"
+      },
+            {
+         "idDiv": 210,
+         "descrNombre": "Franco guineano",
+         "descrAbrev": "ZGNF"
+      },
+            {
+         "idDiv": 211,
+         "descrNombre": "Quetzal guatemalteco",
+         "descrAbrev": "ZGTQ"
+      },
+            {
+         "idDiv": 212,
+         "descrNombre": "DÃ³lar guyanÃ©s",
+         "descrAbrev": "ZGYD"
+      },
+            {
+         "idDiv": 213,
+         "descrNombre": "DÃ³lar de Hong Kong",
+         "descrAbrev": "ZHKD"
+      },
+            {
+         "idDiv": 214,
+         "descrNombre": "Lempira hondureÃ±o",
+         "descrAbrev": "ZHNL"
+      },
+            {
+         "idDiv": 215,
+         "descrNombre": "Kuna croata",
+         "descrAbrev": "ZHRK"
+      },
+            {
+         "idDiv": 216,
+         "descrNombre": "Gourde haitiano",
+         "descrAbrev": "ZHTG"
+      },
+            {
+         "idDiv": 217,
+         "descrNombre": "Forint hÃºngaro",
+         "descrAbrev": "ZHUF"
+      },
+            {
+         "idDiv": 218,
+         "descrNombre": "Rupiah indonesia",
+         "descrAbrev": "ZIDR"
+      },
+            {
+         "idDiv": 219,
+         "descrNombre": "Nuevo shÃ©quel israelÃ­",
+         "descrAbrev": "ZILS"
+      },
+            {
+         "idDiv": 220,
+         "descrNombre": "Rupia india",
+         "descrAbrev": "ZINR"
+      },
+            {
+         "idDiv": 221,
+         "descrNombre": "Dinar iraquÃ­",
+         "descrAbrev": "ZIQD"
+      },
+            {
+         "idDiv": 222,
+         "descrNombre": "Rial iranÃ­",
+         "descrAbrev": "ZIRR"
+      },
+            {
+         "idDiv": 223,
+         "descrNombre": "KrÃ³na islandesa",
+         "descrAbrev": "ZISK"
+      },
+            {
+         "idDiv": 224,
+         "descrNombre": "DÃ³lar jamaicano",
+         "descrAbrev": "ZJMD"
+      },
+            {
+         "idDiv": 225,
+         "descrNombre": "Dinar jordano",
+         "descrAbrev": "ZJOD"
+      },
+            {
+         "idDiv": 226,
+         "descrNombre": "Yen japonÃ©s",
+         "descrAbrev": "ZJPY"
+      },
+            {
+         "idDiv": 227,
+         "descrNombre": "ChelÃ­n keniata",
+         "descrAbrev": "ZKES"
+      },
+            {
+         "idDiv": 228,
+         "descrNombre": "Som kirguÃ­s (de KirguistÃ¡n)",
+         "descrAbrev": "ZKGS"
+      },
+            {
+         "idDiv": 229,
+         "descrNombre": "Riel camboyano",
+         "descrAbrev": "ZKHR"
+      },
+            {
+         "idDiv": 230,
+         "descrNombre": "Franco comoriano (de Comoras)",
+         "descrAbrev": "ZKMF"
+      },
+            {
+         "idDiv": 231,
+         "descrNombre": "Won norcoreano",
+         "descrAbrev": "ZKPW"
+      },
+            {
+         "idDiv": 232,
+         "descrNombre": "Won surcoreano",
+         "descrAbrev": "ZKRW"
+      },
+            {
+         "idDiv": 233,
+         "descrNombre": "Dinar kuwaitÃ­",
+         "descrAbrev": "ZKWD"
+      },
+            {
+         "idDiv": 234,
+         "descrNombre": "DÃ³lar caimano (de Islas CaimÃ¡n)",
+         "descrAbrev": "ZKYD"
+      },
+            {
+         "idDiv": 235,
+         "descrNombre": "Tenge kazajo",
+         "descrAbrev": "ZKZT"
+      },
+            {
+         "idDiv": 236,
+         "descrNombre": "Kip lao",
+         "descrAbrev": "ZLAK"
+      },
+            {
+         "idDiv": 237,
+         "descrNombre": "Libra libanesa",
+         "descrAbrev": "ZLBP"
+      },
+            {
+         "idDiv": 238,
+         "descrNombre": "Rupia de Sri Lanka",
+         "descrAbrev": "ZLKR"
+      },
+            {
+         "idDiv": 239,
+         "descrNombre": "DÃ³lar liberiano",
+         "descrAbrev": "ZLRD"
+      },
+            {
+         "idDiv": 240,
+         "descrNombre": "Loti lesotense",
+         "descrAbrev": "ZLSL"
+      },
+            {
+         "idDiv": 241,
+         "descrNombre": "Litas lituano",
+         "descrAbrev": "ZLTL"
+      },
+            {
+         "idDiv": 242,
+         "descrNombre": "Lat letÃ³n",
+         "descrAbrev": "ZLVL"
+      },
+            {
+         "idDiv": 243,
+         "descrNombre": "Dinar libio",
+         "descrAbrev": "ZLYD"
+      },
+            {
+         "idDiv": 244,
+         "descrNombre": "Dirham marroquÃ­",
+         "descrAbrev": "ZMAD"
+      },
+            {
+         "idDiv": 245,
+         "descrNombre": "Leu moldavo",
+         "descrAbrev": "ZMDL"
+      },
+            {
+         "idDiv": 246,
+         "descrNombre": "Ariary malgache",
+         "descrAbrev": "ZMGA"
+      },
+            {
+         "idDiv": 247,
+         "descrNombre": "Denar macedonio",
+         "descrAbrev": "ZMKD"
+      },
+            {
+         "idDiv": 248,
+         "descrNombre": "Kyat birmano",
+         "descrAbrev": "ZMMK"
+      },
+            {
+         "idDiv": 249,
+         "descrNombre": "Tughrik mongol",
+         "descrAbrev": "ZMNT"
+      },
+            {
+         "idDiv": 250,
+         "descrNombre": "Pataca de Macao",
+         "descrAbrev": "ZMOP"
+      },
+            {
+         "idDiv": 251,
+         "descrNombre": "Ouguiya mauritana",
+         "descrAbrev": "ZMRO"
+      },
+            {
+         "idDiv": 252,
+         "descrNombre": "Rupia mauricia",
+         "descrAbrev": "ZMUR"
+      },
+            {
+         "idDiv": 253,
+         "descrNombre": "Rufiyaa maldiva",
+         "descrAbrev": "ZMVR"
+      },
+            {
+         "idDiv": 254,
+         "descrNombre": "Kwacha malauÃ­",
+         "descrAbrev": "ZMWK"
+      },
+            {
+         "idDiv": 255,
+         "descrNombre": "Peso mexicano",
+         "descrAbrev": "ZMXN"
+      },
+            {
+         "idDiv": 256,
+         "descrNombre": "Unidad de InversiÃ³n UDI",
+         "descrAbrev": "ZMXV"
+      },
+            {
+         "idDiv": 257,
+         "descrNombre": "Ringgit malayo",
+         "descrAbrev": "ZMYR"
+      },
+            {
+         "idDiv": 258,
+         "descrNombre": "Metical mozambiqueÃ±o",
+         "descrAbrev": "ZMZN"
+      },
+            {
+         "idDiv": 259,
+         "descrNombre": "DÃ³lar namibio",
+         "descrAbrev": "ZNAD"
+      },
+            {
+         "idDiv": 260,
+         "descrNombre": "Naira nigeriana",
+         "descrAbrev": "ZNGN"
+      },
+            {
+         "idDiv": 261,
+         "descrNombre": "CÃ³rdoba nicaragÃ¼ense",
+         "descrAbrev": "ZNIO"
+      },
+            {
+         "idDiv": 262,
+         "descrNombre": "Corona noruega",
+         "descrAbrev": "ZNOK"
+      },
+            {
+         "idDiv": 263,
+         "descrNombre": "Rupia nepalesa",
+         "descrAbrev": "ZNPR"
+      },
+            {
+         "idDiv": 264,
+         "descrNombre": "DÃ³lar neozelandÃ©s",
+         "descrAbrev": "ZNZD"
+      },
+            {
+         "idDiv": 265,
+         "descrNombre": "Rial omanÃ­",
+         "descrAbrev": "ZOMR"
+      },
+            {
+         "idDiv": 266,
+         "descrNombre": "Balboa panameÃ±a",
+         "descrAbrev": "ZPAB"
+      },
+            {
+         "idDiv": 267,
+         "descrNombre": "Nuevo sol peruano",
+         "descrAbrev": "ZPEN"
+      },
+            {
+         "idDiv": 268,
+         "descrNombre": "Kina de PapÃºa Nueva Guinea",
+         "descrAbrev": "ZPGK"
+      },
+            {
+         "idDiv": 269,
+         "descrNombre": "Peso filipino",
+         "descrAbrev": "ZPHP"
+      },
+            {
+         "idDiv": 270,
+         "descrNombre": "Rupia pakistanÃ­",
+         "descrAbrev": "ZPKR"
+      },
+            {
+         "idDiv": 271,
+         "descrNombre": "zloty polaco",
+         "descrAbrev": "ZPLN"
+      },
+            {
+         "idDiv": 272,
+         "descrNombre": "GuaranÃ­ paraguayo",
+         "descrAbrev": "ZPYG"
+      },
+            {
+         "idDiv": 273,
+         "descrNombre": "Rial qatarÃ­",
+         "descrAbrev": "ZQAR"
+      },
+            {
+         "idDiv": 274,
+         "descrNombre": "Leu rumano",
+         "descrAbrev": "ZRON"
+      },
+            {
+         "idDiv": 275,
+         "descrNombre": "Rublo ruso",
+         "descrAbrev": "ZRUB"
+      },
+            {
+         "idDiv": 276,
+         "descrNombre": "Franco ruandÃ©s",
+         "descrAbrev": "ZRWF"
+      },
+            {
+         "idDiv": 277,
+         "descrNombre": "Riyal saudÃ­",
+         "descrAbrev": "ZSAR"
+      },
+            {
+         "idDiv": 278,
+         "descrNombre": "DÃ³lar de las Islas SalomÃ³n",
+         "descrAbrev": "ZSBD"
+      },
+            {
+         "idDiv": 279,
+         "descrNombre": "Rupia de Seychelles",
+         "descrAbrev": "ZSCR"
+      },
+            {
+         "idDiv": 280,
+         "descrNombre": "Dinar sudanÃ©s",
+         "descrAbrev": "ZSDG"
+      },
+            {
+         "idDiv": 281,
+         "descrNombre": "Corona sueca",
+         "descrAbrev": "ZSEK"
+      },
+            {
+         "idDiv": 282,
+         "descrNombre": "DÃ³lar de Singapur",
+         "descrAbrev": "ZSGD"
+      },
+            {
+         "idDiv": 283,
+         "descrNombre": "Libra de Santa Helena",
+         "descrAbrev": "ZSHP"
+      },
+            {
+         "idDiv": 284,
+         "descrNombre": "Leone de Sierra Leona",
+         "descrAbrev": "ZSLL"
+      },
+            {
+         "idDiv": 285,
+         "descrNombre": "ChelÃ­n somalÃ­",
+         "descrAbrev": "ZSOS"
+      },
+            {
+         "idDiv": 286,
+         "descrNombre": "DÃ³lar surinamÃ©s",
+         "descrAbrev": "ZSRD"
+      },
+            {
+         "idDiv": 287,
+         "descrNombre": "Dobra de Santo TomÃ© y PrÃ­ncipe",
+         "descrAbrev": "ZSTD"
+      },
+            {
+         "idDiv": 288,
+         "descrNombre": "Libra siria SZL Lilangeni suazi",
+         "descrAbrev": "ZSYP"
+      },
+            {
+         "idDiv": 289,
+         "descrNombre": "Baht tailandÃ©s",
+         "descrAbrev": "ZTHB"
+      },
+            {
+         "idDiv": 290,
+         "descrNombre": "Somoni tayik",
+         "descrAbrev": "ZTJS"
+      },
+            {
+         "idDiv": 291,
+         "descrNombre": "Manat turcomano",
+         "descrAbrev": "ZTMT"
+      },
+            {
+         "idDiv": 292,
+         "descrNombre": "Dinar tunecino",
+         "descrAbrev": "ZTND"
+      },
+            {
+         "idDiv": 293,
+         "descrNombre": "Paanga tongano",
+         "descrAbrev": "ZTOP"
+      },
+            {
+         "idDiv": 294,
+         "descrNombre": "Lira turca TTD DÃ³lar de Trinidad y Tobago",
+         "descrAbrev": "ZTRY"
+      },
+            {
+         "idDiv": 295,
+         "descrNombre": "DÃ³lar taiwanÃ©s TZS ChelÃ­n tanzano",
+         "descrAbrev": "ZTWD"
+      },
+            {
+         "idDiv": 296,
+         "descrNombre": "Grivna ucraniana",
+         "descrAbrev": "ZUAH"
+      },
+            {
+         "idDiv": 297,
+         "descrNombre": "ChelÃ­n ugandÃ©s",
+         "descrAbrev": "ZUGX"
+      },
+            {
+         "idDiv": 298,
+         "descrNombre": "DÃ³lar estadounidense",
+         "descrAbrev": "ZUSD"
+      },
+            {
+         "idDiv": 299,
+         "descrNombre": "DÃ³lar estadounidense",
+         "descrAbrev": "ZUSN"
+      },
+            {
+         "idDiv": 300,
+         "descrNombre": "DÃ³lar estadounidense",
+         "descrAbrev": "ZUSS"
+      },
+            {
+         "idDiv": 301,
+         "descrNombre": "Peso uruguayo",
+         "descrAbrev": "ZUYU"
+      },
+            {
+         "idDiv": 302,
+         "descrNombre": "Som uzbeko",
+         "descrAbrev": "ZUZS"
+      },
+            {
+         "idDiv": 303,
+         "descrNombre": "BolÃ­var fuerte venezolano",
+         "descrAbrev": "ZVEF"
+      },
+            {
+         "idDiv": 304,
+         "descrNombre": "Dong vietnamita",
+         "descrAbrev": "ZVND"
+      },
+            {
+         "idDiv": 305,
+         "descrNombre": "Vatu vanuatense",
+         "descrAbrev": "ZVUV"
+      },
+            {
+         "idDiv": 306,
+         "descrNombre": "Tala samoana",
+         "descrAbrev": "ZWST"
+      },
+            {
+         "idDiv": 307,
+         "descrNombre": "Franco CFA de Ã�frica Central",
+         "descrAbrev": "ZXAF"
+      },
+            {
+         "idDiv": 308,
+         "descrNombre": "Onza de plata XAU Onza de oro",
+         "descrAbrev": "ZXAG"
+      },
+            {
+         "idDiv": 309,
+         "descrNombre": "European Composite Unit",
+         "descrAbrev": "ZXBA"
+      },
+            {
+         "idDiv": 310,
+         "descrNombre": "European Monetary Unit",
+         "descrAbrev": "ZXBB"
+      },
+            {
+         "idDiv": 311,
+         "descrNombre": "European Unit of Account",
+         "descrAbrev": "ZXBC"
+      },
+            {
+         "idDiv": 312,
+         "descrNombre": "European Unit of Account 17 (E.U.A.-17)",
+         "descrAbrev": "ZXBD"
+      },
+            {
+         "idDiv": 313,
+         "descrNombre": "DÃ³lar del Caribe Oriental",
+         "descrAbrev": "ZXCD"
+      },
+            {
+         "idDiv": 314,
+         "descrNombre": "Derechos Especiales de Giro",
+         "descrAbrev": "ZXDR"
+      },
+            {
+         "idDiv": 315,
+         "descrNombre": "Franco UIC",
+         "descrAbrev": "ZXFU"
+      },
+            {
+         "idDiv": 316,
+         "descrNombre": "Franco CFA de Ã�frica Occidental",
+         "descrAbrev": "ZXOF"
+      },
+            {
+         "idDiv": 317,
+         "descrNombre": "Onza de paladio",
+         "descrAbrev": "ZXPD"
+      },
+            {
+         "idDiv": 318,
+         "descrNombre": "Franco CFP",
+         "descrAbrev": "ZXPF"
+      },
+            {
+         "idDiv": 319,
+         "descrNombre": "Onza de platino",
+         "descrAbrev": "ZXPT"
+      },
+            {
+         "idDiv": 320,
+         "descrNombre": "Reservado para pruebas",
+         "descrAbrev": "ZXTS"
+      },
+            {
+         "idDiv": 321,
+         "descrNombre": "Sin divisa YER Rial yemenÃ­",
+         "descrAbrev": "ZXXX"
+      },
+            {
+         "idDiv": 322,
+         "descrNombre": "Rand sudafricano",
+         "descrAbrev": "ZZAR"
+      },
+            {
+         "idDiv": 323,
+         "descrNombre": "Kwacha zambiano",
+         "descrAbrev": "ZZMW"
+      },
+            {
+         "idDiv": 324,
+         "descrNombre": "DÃ³lar zimbabuense",
+         "descrAbrev": "ZZWL"
+      },
+            {
+         "idDiv": 333,
+         "descrNombre": "MONEDA PRUEBA",
+         "descrAbrev": "VCM"
+      }
+   ],
+   "resultToJSONString": null
+}
